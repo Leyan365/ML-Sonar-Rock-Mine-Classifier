@@ -17,7 +17,9 @@ The Streamlit application simulates a submarine's sonar analysis console. Users 
 | Selecting a Mine Target | Selecting a Rock Target | Handling an Unknown Target |
 | :---: | :---: | :---: |
 |<img width="1817" height="967" alt="s1" src="https://github.com/user-attachments/assets/2768cdcb-d008-4a56-8689-a197f82f2c67" />
+| Selecting a Rock Target |
  |<img width="1782" height="817" alt="s2" src="https://github.com/user-attachments/assets/ab6cc8e2-08c5-477d-8163-8a58b769a4e5" />
+ | Handling an Unknown Target |
 |<img width="1773" height="969" alt="s3" src="https://github.com/user-attachments/assets/f7bae01a-01b1-43e9-b64c-17ac0a416928" />|
 
 ---
