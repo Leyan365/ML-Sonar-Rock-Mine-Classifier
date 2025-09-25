@@ -16,7 +16,9 @@ The Streamlit application simulates a submarine's sonar analysis console. Users 
 
 | Selecting a Mine Target | Selecting a Rock Target | Handling an Unknown Target |
 | :---: | :---: | :---: |
-| **** | **** | **** |
+|<img width="1817" height="967" alt="s1" src="https://github.com/user-attachments/assets/2768cdcb-d008-4a56-8689-a197f82f2c67" />
+ |<img width="1782" height="817" alt="s2" src="https://github.com/user-attachments/assets/ab6cc8e2-08c5-477d-8163-8a58b769a4e5" />
+|<img width="1773" height="969" alt="s3" src="https://github.com/user-attachments/assets/f7bae01a-01b1-43e9-b64c-17ac0a416928" />|
 
 ---
 
@@ -61,8 +63,8 @@ The Cross-Validation (CV) scores provide the most reliable estimate of real-worl
 | `sonar_svm_model.pkl` | The trained **Tuned SVM** classification model. |
 | `sonar_scaler.pkl` | The **StandardScaler** object used to preprocess the data (required for prediction). |
 | `sonar_dataset_notebook.ipynb` | Jupyter Notebook detailing EDA, data preprocessing, model tuning, and final evaluation. |
-| `requirements.txt` | Lists the necessary Python packages (`streamlit`, `numpy`, `joblib`, `scikit-learn`). |
-| `.gitignore` | Standard file to ignore virtual environments and IDE metadata. |
+| `requirements.txt` | Lists the necessary Python packages  |
+| `.gitignore` | Standard file to ignore virtual environment|
 
 ### Technologies
 
@@ -78,22 +80,10 @@ The Cross-Validation (CV) scores provide the most reliable estimate of real-worl
 To run the Sonar Classification App on your local machine, follow these steps:
 
 1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/Sonar-Rock-Mine-Classifier.git](https://github.com/YOUR_USERNAME/Sonar-Rock-Mine-Classifier.git)
-    cd Sonar-Rock-Mine-Classifier
-    ```
+   
 
 2.  **Create and Activate Environment:**
-    ```bash
-    # Create a virtual environment
-    python -m venv venv
-    
-    # Activate the environment (macOS/Linux)
-    source venv/bin/activate
-    
-    # Activate the environment (Windows)
-    .\venv\Scripts\activate
-    ```
+   
 
 3.  **Install Dependencies:**
     ```bash
